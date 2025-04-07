@@ -1,0 +1,1 @@
+let studyHours = 3;
