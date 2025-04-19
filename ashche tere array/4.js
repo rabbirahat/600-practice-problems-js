@@ -1,0 +1,1 @@
+const cinemas = ['Toofan', 'Surongo', 'Aynabajhi', 'Maharaja', 'PK'];
